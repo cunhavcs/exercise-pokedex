@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <h1>Exercise - Pokedex</h1>
+    <h1>Exercise  Pokedex</h1>
   );
 }
 
